@@ -1,0 +1,17 @@
+/* 
+$itemGrow: 1.2;
+$duration: 450ms; */
+.layerhover {
+  padding: 1em 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  border-bottom: 2px solid white;
+}
+
+.layerhover:hover {
+    padding-top: 2em;
+padding-bottom: 2em;
+  
+}
